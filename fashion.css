@@ -73,3 +73,74 @@ div {
 #up {
     font-size: 50px;
 }
+
+.image {
+    display: none;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.ladies {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.men {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.couple {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.fam {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.rolls {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.roll_top {
+    float: left;
+}
+
+.lady_top {
+    float: left;
+}
+
+.men_top {
+    float: left;
+}
+
+.couple_top {
+    float: left;
+}
+
+.fam_top {
+    float: left;
+}
+
+.roll_top:hover {
+    opacity: 0.5;
+}
+
+.lady_top:hover {
+    opacity: 0.5;
+}
+
+.men_top:hover {
+    opacity: 0.5;
+}
+
+.couple_top:hover {
+    opacity: 0.5;
+}
+
+.fam_top:hover {
+    opacity: 0.5;
+}
