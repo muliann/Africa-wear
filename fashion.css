@@ -23,16 +23,8 @@ h1 {
     text-align: center;
 }
 
-h5:hover {
-    color: gray;
-    opacity: 0.5;
-}
-
-div {
-    color: white;
-}
-
 .footer {
+    color: black;
     background-color: grey;
     position: fixed;
     bottom: 0px;
@@ -45,7 +37,7 @@ div {
     margin: 10px;
     margin-left: 100px;
     margin-right: 100px;
-    padding: 20px;
+    padding: 10px;
     float: left;
 }
 
@@ -53,7 +45,7 @@ div {
     margin: 10px;
     margin-left: 100px;
     margin-right: 100px;
-    padding: 20px;
+    padding: 10px;
     bottom: 2px;
     text-align: center;
     float: left;
@@ -63,13 +55,66 @@ div {
     margin: 10px;
     margin-left: 100px;
     margin-right: 100px;
-    padding: 20px;
+    padding: 10px;
     text-align: right;
-    right: 15px;
+    right: 20px;
     top: 2px;
     float: left;
 }
 
 #up {
     font-size: 50px;
+}
+
+.roll_top {
+    position: relative;
+    float: left;
+}
+
+.lady_top {
+    position: relative;
+    float: left;
+}
+
+.men_top {
+    position: relative;
+    float: left;
+}
+
+.couple_top {
+    position: relative;
+    float: left;
+}
+
+.fam_top {
+    position: relative;
+    float: left;
+}
+
+.roll_top:hover {
+    opacity: 0.1;
+}
+
+.lady_top:hover {
+    opacity: 0.1;
+}
+
+.men_top:hover {
+    opacity: 0.1;
+}
+
+.couple_top:hover {
+    opacity: 0.1;
+}
+
+.fam_top:hover {
+    opacity: 0.1;
+}
+
+p {
+    color: azure;
+}
+
+.image {
+    display: ;
 }
